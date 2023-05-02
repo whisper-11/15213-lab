@@ -2,7 +2,7 @@
 -   [x] [Data Lab]
 -   [x] [Bomb Lab]
 -   [x] [Attack Lab]
--   [x] [Architecture Lab(Y86-64)]
+-   [ ] [Architecture Lab]
 -   [x] [Cache Lab]
 -   [x] [Shell Lab]
 -   [x] [Malloc Lab]
